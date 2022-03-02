@@ -1,8 +1,8 @@
 # Hi there, I'm Kyle! 👋
 
 
-<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=KyleKnolleLynch&theme=chartreuse-dark&show_icons=true&border_radius=16px" />
-<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleKnolleLynch&layout=compact" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=KyleKnolleLynch&theme=chartreuse-dark&show_icons=true&border_radius=16px" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleKnolleLynch&layout=compact&theme=chartreuse-dark&border_radius=16px" />
 
 
 <img align="left"  alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
