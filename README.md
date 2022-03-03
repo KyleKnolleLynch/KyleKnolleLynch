@@ -11,7 +11,7 @@
 
 <!-- streaks graph with custom heroku url -->
 <div align="center">
-    <img src="https://damp-woodland-29923.herokuapp.com/?user=KyleKnolleLynch&background=0D1117&hide_border=true&stroke=7FFF00&ring=7FFF00&fire=7FFF00&currStreakNum=7FFF00&sideNums=7FFF00&currStreakLabel=white&sideLabels=white&dates=white" />
+    <img src="https://damp-woodland-29923.herokuapp.com/?user=KyleKnolleLynch&background=0D1117&hide_border=true&stroke=7FFF0040&ring=7FFF00&fire=7FFF00&currStreakNum=white&sideNums=white&currStreakLabel=7FFF00&sideLabels=white&dates=white" />
 </div>
 <br>
 
