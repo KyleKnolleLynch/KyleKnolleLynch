@@ -1,3 +1,9 @@
+<style>
+    html {
+        background-color: #0D1117;
+    }
+</style>
+
 <!-- capsule-render header banner -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFF00&fontColor=FFFFFF&height=190&section=header&animation=twinkling&text=Kyle%20Lynch&fontSize=33&fontAlignY=32" /><br>
