@@ -1,23 +1,23 @@
 <!-- capsule-render header banner -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFF00&fontColor=FFFFFF&height=190&section=header&animation=twinkling&text=Kyle%20Lynch&fontSize=33&fontAlignY=32" /><br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFF00&fontColor=FFFFFF&height=190&section=header&animation=twinkling&text=Kyle%20Lynch&fontSize=33&fontAlignY=32" alt="capsule_banner" /><br>
 
 <!-- GH stats data charts -->
 <div align="center">
-    <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=KyleKnolleLynch&theme=chartreuse-dark&bg_color=0D1117&show_icons=true&hide_border=true" />
-    <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleKnolleLynch&layout=compact&theme=chartreuse-dark&bg_color=0D1117&hide_border=true" />
+    <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=KyleKnolleLynch&theme=chartreuse-dark&bg_color=0D1117&show_icons=true&hide_border=true" alt="github_stats" />
+    <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleKnolleLynch&layout=compact&theme=chartreuse-dark&bg_color=0D1117&hide_border=true" alt="top_langs_stats" />
 </div>
 <br>
 
 <!-- streaks graph with custom heroku url -->
 <div align="center">
-    <img src="https://damp-woodland-29923.herokuapp.com/?user=KyleKnolleLynch&background=0D1117&hide_border=true&stroke=7FFF0040&ring=7FFF00&fire=7FFF00&currStreakNum=white&sideNums=white&currStreakLabel=7FFF00&sideLabels=white&dates=white" />
+    <img src="https://damp-woodland-29923.herokuapp.com/?user=KyleKnolleLynch&background=0D1117&hide_border=true&stroke=7FFF0040&ring=7FFF00&fire=7FFF00&currStreakNum=white&sideNums=white&currStreakLabel=7FFF00&sideLabels=white&dates=white" alt="streaks_data" />
 </div>
 <br>
 
 <!-- activity graph with custom heroku url-->
 <div align="center">
-    <img width="90%" src="https://serene-gorge-36687.herokuapp.com/graph?username=KyleKnolleLynch&bg_color=0D1117&color=7FFF00&line=00AEFF&hide_border=true&area=true&area_color=7FFF00&point=7FFF00&custom_title=Kyle's%20contributions" />
+    <img width="90%" src="https://serene-gorge-36687.herokuapp.com/graph?username=KyleKnolleLynch&bg_color=0D1117&color=7FFF00&line=00AEFF&hide_border=true&area=true&area_color=7FFF00&point=7FFF00&custom_title=Kyle's%20contributions" alt="contribution_graph" />
 </div>
 <br>
 
