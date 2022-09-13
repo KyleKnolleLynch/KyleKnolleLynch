@@ -1,6 +1,5 @@
 <!-- capsule-render header banner -->
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFF00&fontColor=FFFFFF&height=190&section=header&animation=twinkling&text=Kyle%20Lynch&fontSize=33&fontAlignY=32" alt="capsule_banner" /><br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFF00&fontColor=FFFFFF&height=190&section=header&animation=twinkling&text=Hi&sbquo;&ensp;I&rsquo;m&ensp;Kyle&fontSize=33&fontAlignY=32" alt="capsule_banner" /><br>
 
 <!-- GH stats data charts -->
 <div align="center">
@@ -22,7 +21,6 @@
 <br>
 
 <!-- language and skill badges -->
-
 ### Skills:
 
 ![Javascript](https://img.shields.io/badge/javascript-0D1117.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -31,12 +29,10 @@
 ![CSS](https://img.shields.io/badge/css3-0D1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-0D1117.svg?style=for-the-badge&logo=SASS&logoColor=hotpink)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0D1117.svg?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-0D1117.svg?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 
 ---
 
 <!-- workflow badges -->
-
 ### Workflow technologies:
 
 ![NPM](https://img.shields.io/badge/NPM-0D1117.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -48,7 +44,6 @@
 ---
 
 <!-- building skills badges -->
-
 ### Skills I am building upon:
 
 ![Next JS](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
