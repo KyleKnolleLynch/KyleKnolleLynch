@@ -1,20 +1,17 @@
 <!-- capsule-render header banner -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFF00&fontColor=FFFFFF&height=190&section=header&animation=twinkling&text=Hi&sbquo;&ensp;I&rsquo;m&ensp;Kyle&fontSize=33&fontAlignY=32" alt="capsule_banner" /><br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFF00&fontColor=FFFFFF&height=190&section=header&animation=twinkling&text=Kyle%20Lynch&fontSize=33&fontAlignY=32" alt="capsule_banner" /><br>
 
 # Hello and Welcome! &#128400;
 
-My name is Kyle Lynch and I am a self-taught web developer living in Austin, Texas. My passion is to be constantly learning new things and keeping up with current web development software. When I'm not doing that, I'm working on Subarus or studying ancient history as a hobby. 
+My name is Kyle Lynch and I am a self-taught web developer living in ![](https://custom-icon-badges.demolab.com/badge/Austin-TX-7FFF00?style=flat-square&logo=location&logoColor=white&labelColor=0D1117). My passion is to constantly be learning new things and keeping up with current web development software/practices. Working on Subarus and studying ancient history are some of my hobbies.
 
-Check out my projects I've built on my portfolio website ~ [kylelynch.me](https://kylelynch.me)  
-
-<br>
-
-![](https://custom-icon-badges.demolab.com/badge/Austin-TX-7FFF00?style=for-the-badge&logo=location&logoColor=white&labelColor=0D1117)
+Check out [![](https://custom-icon-badges.demolab.com/badge/kylelynch.me-7FFF00?style=for-the-badge&logo=globe&logoColor=white&labelColor=0D1117)](https://kylelynch.me) to see projects I've built.
 
 <br>
 
 <!-- language and skill badges -->
+
 ## &#x1f4bb; Technologies
 
 ---
@@ -29,6 +26,7 @@ Check out my projects I've built on my portfolio website ~ [kylelynch.me](https:
 <br>
 
 <!-- building skills badges -->
+
 ### &#x1f528; Building upon
 
 ![Next JS](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
@@ -40,6 +38,7 @@ Check out my projects I've built on my portfolio website ~ [kylelynch.me](https:
 <br>
 
 <!-- workflow badges -->
+
 ## &#x1f527; Workflow tools
 
 ---
@@ -55,6 +54,7 @@ Check out my projects I've built on my portfolio website ~ [kylelynch.me](https:
 ## &#x1f4ca; Github Stats
 
 ---
+
 <!-- GH stats data charts -->
 <div align="center">
     <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=KyleKnolleLynch&theme=chartreuse-dark&bg_color=0D1117&show_icons=true&hide_border=true" alt="github_stats" />
