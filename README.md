@@ -1,7 +1,8 @@
 <!-- capsule-render header banner -->
 
 [![Header](assets/profile_banner.png 'Header')](https://kylelynch.me/)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7FFF00&height=80&section=header" alt="capsule_banner" style="width: 100%; margin-top: -12px" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7FFF00&section=header" alt="capsule_banner" style="width: 100; margin-top: -20px" />
 
 # Hello and Welcome! &#128400;
 
