@@ -1,6 +1,7 @@
 <!-- capsule-render header banner -->
+
 [![Header](assets/profile_banner.png 'Header')](https://kylelynch.me/)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7FFF00&height=80&section=header" alt="capsule_banner" style="width: 100%; margin-top: -6px" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7FFF00&height=80&section=header" alt="capsule_banner" style="width: 100%; margin-top: -12px" />
 
 # Hello and Welcome! &#128400;
 
@@ -14,8 +15,6 @@ Check out [![](https://custom-icon-badges.demolab.com/badge/kylelynch.me-7FFF00?
 
 ## &#x1f4bb; Technologies
 
----
-
 ![Javascript](https://img.shields.io/badge/javascript-0D1117.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
@@ -23,8 +22,6 @@ Check out [![](https://custom-icon-badges.demolab.com/badge/kylelynch.me-7FFF00?
 ![CSS](https://img.shields.io/badge/css3-0D1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/SASS-0D1117.svg?style=for-the-badge&logo=SASS&logoColor=hotpink)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0D1117.svg?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-
-<br>
 
 <!-- building skills badges -->
 
@@ -42,8 +39,6 @@ Check out [![](https://custom-icon-badges.demolab.com/badge/kylelynch.me-7FFF00?
 
 ## &#x1f527; Workflow tools
 
----
-
 ![NPM](https://img.shields.io/badge/NPM-0D1117.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F05033)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
@@ -53,8 +48,6 @@ Check out [![](https://custom-icon-badges.demolab.com/badge/kylelynch.me-7FFF00?
 <br>
 
 ## &#x1f4ca; Github Stats
-
----
 
 <!-- GH stats data charts -->
 <div align="center">
