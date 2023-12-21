@@ -1,7 +1,7 @@
 <!-- capsule-render header banner -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=7FFF00&section=header" alt="capsule_banner" style="width: 100;" /> -->
 
-[![Header](assets/profile_banner.png 'Header')](https://kylelynch.me/)
+![Banner](assets/profile_banner.png 'Welcome to my Gitlab page!')
 
 <br>
 
@@ -25,7 +25,7 @@ Check out [![](https://custom-icon-badges.demolab.com/badge/kylelynch.me-7FFF00?
 
 ## &#x1f528; Building upon
 
-![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=6DA55F) ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117.svg?style=for-the-badge&logo=mongodb&logoColor=4EA94B) ![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098) ![Astro](https://img.shields.io/badge/astro-0D1117.svg?style=for-the-badge&logo=astro&logoColor=BC52EE) ![React Query](https://img.shields.io/badge/-React%20Query-0D1117?style=for-the-badge&logo=react%20query&logoColor=FF4154) 
+![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=6DA55F) ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117.svg?style=for-the-badge&logo=mongodb&logoColor=4EA94B) ![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098) ![Astro](https://img.shields.io/badge/astro-0D1117.svg?style=for-the-badge&logo=astro&logoColor=BC52EE) ![React Query](https://img.shields.io/badge/-React%20Query-0D1117?style=for-the-badge&logo=react%20query&logoColor=FF4154)
 
 <br>
 
