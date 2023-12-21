@@ -1,7 +1,10 @@
 <!-- capsule-render header banner -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=7FFF00&section=header" alt="capsule_banner" style="width: 100;" /> -->
+<!-- ![Banner](assets/profile_banner.png 'Welcome to my Gitlab page!') -->
 
-![Banner](assets/profile_banner.png 'Welcome to my Gitlab page!')
+<img src='assets/profile_banner.png ' alt='Banner' title='Welcome to my Gitlab page!' />
+
+<br>
 
 <br>
 
