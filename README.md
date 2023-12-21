@@ -7,7 +7,7 @@
 
 # Hello and Welcome! &#128075;
 
-My name is Kyle Lynch and I am a self-taught web developer living in ![](https://custom-icon-badges.demolab.com/badge/Austin%20TX-7FFF00?style=flat-square&logo=location&logoColor=white&labelColor=0D1117). My current focus is on front-end development, primarily the javascript ecosystem. Working on Subarus is my hobby.
+My name is Kyle Lynch and I am a web developer living in ![](https://custom-icon-badges.demolab.com/badge/Austin%20TX-7FFF00?style=flat-square&logo=location&logoColor=white&labelColor=0D1117). My current focus is on front-end development, primarily the javascript ecosystem. Working on Subarus is my hobby.
 
 Check out [![](https://custom-icon-badges.demolab.com/badge/kylelynch.me-7FFF00?style=for-the-badge&logo=globe&logoColor=white&labelColor=0D1117)](https://kylelynch.me) to see projects I've built.
 
