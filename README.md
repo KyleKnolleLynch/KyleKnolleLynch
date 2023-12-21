@@ -1,16 +1,13 @@
 <!-- capsule-render header banner -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=7FFF00&section=header" alt="capsule_banner" style="width: 100;" /> -->
-<!-- ![Banner](assets/profile_banner.png 'Welcome to my Gitlab page!') -->
 
-<img src='/assets/profile_banner.png ' alt='Banner' title='Welcome to my Gitlab page!' />
-
-<br>
+![Banner](assets/profile_banner.png 'Welcome to my Gitlab page!')
 
 <br>
 
 # Hello and Welcome! &#128075;
 
-My name is Kyle Lynch and I am a self-taught web developer living in ![](https://custom-icon-badges.demolab.com/badge/Austin%20TX-7FFF00?style=flat-square&logo=location&logoColor=white&labelColor=0D1117). My passion is to constantly be learning new things. My current focus is on front-end development, primarily the javascript ecosystem, but I'm growing my back-end dev skills along the way. Working on Subarus and studying ancient history are my hobbies.
+My name is Kyle Lynch and I am a self-taught web developer living in ![](https://custom-icon-badges.demolab.com/badge/Austin%20TX-7FFF00?style=flat-square&logo=location&logoColor=white&labelColor=0D1117). My current focus is on front-end development, primarily the javascript ecosystem. Working on Subarus is my hobby.
 
 Check out [![](https://custom-icon-badges.demolab.com/badge/kylelynch.me-7FFF00?style=for-the-badge&logo=globe&logoColor=white&labelColor=0D1117)](https://kylelynch.me) to see projects I've built.
 
