@@ -37,11 +37,11 @@ Check out [![](https://custom-icon-badges.demolab.com/badge/kylelynch.me-7FFF00?
 
 <br>
 
-## &#x1f4ca; Stats
+## &#x1f4ca; Github Stats
 
 <!-- GH stats data charts -->
 <div align="center">
-    <!-- <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=KyleKnolleLynch&theme=chartreuse-dark&bg_color=0D1117&show_icons=true&hide_border=true" alt="github_stats" /> -->
+    <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=KyleKnolleLynch&theme=chartreuse-dark&bg_color=0D1117&show_icons=true&hide_border=true" alt="github_stats" />
     <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleKnolleLynch&layout=compact&theme=chartreuse-dark&bg_color=0D1117&hide_border=true" alt="top_langs_stats" />
 </div>
 <br>
